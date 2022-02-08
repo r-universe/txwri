@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "ldc"
+  },
+  {
+    "package": "twriTemplates"
+  }
+]

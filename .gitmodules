@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/txwri/universe
 	shallow = true
 	branch = HEAD
+[submodule "ldc"]
+	path = ldc
+	url = https://github.com/TxWRI/ldc
+	shallow = true
+	registered = true
+[submodule "twriTemplates"]
+	path = twriTemplates
+	url = https://github.com/TxWRI/twriTemplates
+	shallow = true
+	registered = true
