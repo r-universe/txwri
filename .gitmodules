@@ -13,3 +13,8 @@
 	url = https://github.com/TxWRI/twriTemplates
 	shallow = true
 	registered = true
+[submodule "wd4tx"]
+	path = wd4tx
+	url = https://github.com/TxWRI/wd4tx
+	shallow = true
+	registered = true

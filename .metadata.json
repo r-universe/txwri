@@ -4,5 +4,8 @@
   },
   {
     "package": "twriTemplates"
+  },
+  {
+    "package": "wd4tx"
   }
 ]
