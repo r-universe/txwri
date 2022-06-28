@@ -1,5 +1,8 @@
 [
   {
+    "package": "adc"
+  },
+  {
     "package": "ldc"
   },
   {
