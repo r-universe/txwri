@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/txwri/universe
+	url = https://github.com/txwri/txwri.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "adc"]
