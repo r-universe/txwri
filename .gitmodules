@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/txwri/txwri.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "adc"]
 	path = adc
 	url = https://github.com/TxWRI/adc
-	shallow = true
-	registered = true
 [submodule "ldc"]
 	path = ldc
 	url = https://github.com/TxWRI/ldc
-	shallow = true
-	registered = true
 [submodule "twriTemplates"]
 	path = twriTemplates
 	url = https://github.com/TxWRI/twriTemplates
-	shallow = true
-	registered = true
 [submodule "wd4tx"]
 	path = wd4tx
 	url = https://github.com/TxWRI/wd4tx
-	shallow = true
-	registered = true
