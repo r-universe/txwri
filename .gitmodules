@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/txwri/txwri.r-universe.dev
 	branch = HEAD
+[submodule "SELECTRdata"]
+	path = SELECTRdata
+	url = https://github.com/TxWRI/SELECTRdata
 [submodule "adc"]
 	path = adc
 	url = https://github.com/TxWRI/adc
