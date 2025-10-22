@@ -5,6 +5,9 @@
 [submodule "SELECTRdata"]
 	path = SELECTRdata
 	url = https://github.com/TxWRI/SELECTRdata
+[submodule "SELECTRshed"]
+	path = SELECTRshed
+	url = https://github.com/TxWRI/SELECTRshed
 [submodule "adc"]
 	path = adc
 	url = https://github.com/TxWRI/adc
